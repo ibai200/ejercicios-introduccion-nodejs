@@ -12,3 +12,11 @@ npm init -y
 npm install picocolors
 node sistema.js
 ```
+
+#### ejercicio2-explorador-carpetas
+```bash
+cd ejercicio2-explorador-carpetas
+npm init -y
+npm install picocolors
+node listar.js
+```
