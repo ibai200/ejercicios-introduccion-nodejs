@@ -20,3 +20,11 @@ npm init -y
 npm install picocolors
 node listar.js
 ```
+
+#### ejercicio3-informe-archivo
+```bash
+cd ejercicio3-informe-archivo
+npm init -y
+npm install picocolors
+node informe.js
+```
